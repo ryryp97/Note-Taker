@@ -2,7 +2,7 @@
 
 ### Description 
 
-
+*Currently, this app doesn't work due to the html not being correctly linked with the index.js and styles.css files, for some yet to be known reason. 
 
 ### Usage
 
