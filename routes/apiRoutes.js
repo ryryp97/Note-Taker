@@ -1,5 +1,5 @@
 var db = require("../db/db.json");
-var fs = require("fs");
+// var fs = require("fs");
 
 module.exports = function(app) {
     // API GET Requests
@@ -15,8 +15,6 @@ module.exports = function(app) {
     app.post("/api/notes", function(req, res) {
         res.json(db);
     })
-
-    console.log(db);
     
   };
   
